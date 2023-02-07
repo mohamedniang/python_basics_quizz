@@ -1,0 +1,116 @@
+[
+  {
+    "number": 1,
+    "text": "Qui est l'actuel président du Sénégal",
+    "correct_answer": 1,
+    "timer": 5,
+    "answers": [
+      "Macky SALL",
+      "Ousmane SONKO",
+      "Karim WADE",
+      "Khalifa SALL"
+    ]
+  },
+  {
+    "number": 2,
+    "text": "Quel est le deuxième nom de Karim WADE",
+    "correct_answer": 3,
+    "timer": 5,
+    "answers": [
+      "Mbaye",
+      "Modou",
+      "Maïssa"
+    ]
+  },
+  {
+    "number": 3,
+    "correct_answer": 1,
+    "timer": 5,
+    "text": "Combien de fleuves traversent le Sénégal",
+    "answers": [
+      "Deux",
+      "Trois",
+      "Aucun"
+    ]
+  },
+  {
+    "number": 4,
+    "correct_answer": 1,
+    "timer": 5,
+    "text": "Dans quelle région se trouve le village de Baba Garage",
+    "answers": [
+      "Diourbel",
+      "Casamance",
+      "Sénégal oriental"
+    ]
+  },
+  {
+    "number": 5,
+    "correct_answer": 2,
+    "timer": 5,
+    "text": "Qu’est-ce que le djambadong",
+    "answers": [
+      "Une grande pelle pour retourner la terre des rizières",
+      "Une danse mandingue",
+      "Un fétiche bassari",
+      "Un échassier"
+    ]
+  },
+  {
+    "number": 6,
+    "correct_answer": 1,
+    "timer": 5,
+    "text": "Le roi d’Oussouye porte toujours ...",
+    "answers": [
+      "Un pagne tissé",
+      "Des lunettes",
+      "Un sac avec des gri-gri",
+      "Un balai"
+    ]
+  },
+  {
+    "number": 7,
+    "correct_answer": 2,
+    "timer": 5,
+    "text": "Qui a composé la musique de l’hymne national",
+    "answers": [
+      "Herbert Pepper",
+      "Léopold Sédar Senghor",
+      "Les Touré Kunda",
+      "Cheikh N’diguel Lô"
+    ]
+  },
+  {
+    "number": 8,
+    "correct_answer": 4,
+    "timer": 5,
+    "text": "La bière Gazelle est née à Dakar en",
+    "answers": [
+      "1928",
+      "1960, lors de l’indépendance",
+      "1974",
+      "Ce n’est pas une bière sénégalaise"
+    ]
+  },
+  {
+    "number": 9,
+    "correct_answer": 1,
+    "timer": 5,
+    "text": "Le Sénégal est le premier producteur de sel d’Afrique de l’ouest",
+    "answers": [
+      "Vrai",
+      "Faux"
+    ]
+  },
+  {
+    "number": 10,
+    "correct_answer": 3,
+    "timer": 5,
+    "text": "La devise du Sénégal est",
+    "answers": [
+      "un peuple, une vérité, une loi",
+      "Liberté, Egalité, Fraternité",
+      "un peuple, un but, une foi"
+    ]
+  }
+]
